@@ -1,6 +1,11 @@
 ## Basic tools used to get raw thermo files.
 
 This code is by no means mine. It's made by guys building proteininspector.
+
+## UNFORTUNATELY, THE ORIGINAL UNTHERMO PROJECT IS UNMAINTAINED AND CURRENLTY PRODUCES HUMBUG.
+## USE MZMINE2 INSTEAD.
+
+
 Here you will find simple wrappers and, above all, installation instructions.
 This is intended for people who, like me, never touched golang and want to keep it that way.
 
